@@ -2,6 +2,7 @@
 
 
 
+<!DOCTYPE html>
 <html>
     <head>
         <title>Meu site</title>
@@ -11,6 +12,8 @@
                 background-image: url("https://i.ibb.co/P9zLt5b/Back-Ground.png");
                 background-size: cover;
                 background-position: center;
+                background-attachment: fixed;
+                height: 100vh;
                 margin: 0;
                 padding: 0;
             }
