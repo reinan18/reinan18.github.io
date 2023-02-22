@@ -2,7 +2,7 @@
 
 <title>Veja o código fonte da minha página</title>
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Veja o código fonte da minha página</title>
