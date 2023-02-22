@@ -1,6 +1,6 @@
 # reinan18.github.io
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Meu site</title>
