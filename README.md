@@ -1,4 +1,5 @@
-# reinan18.github.io
+# Meusite
+
 
 
 <html>
@@ -7,7 +8,32 @@
         <meta charset="UTF-8">
         <style>
             body {
-                background-color: blue;
+                background-image: url("https://i.ibb.co/P9zLt5b/Back-Ground.png");
+                background-size: cover;
+                background-position: center;
+                margin: 0;
+                padding: 0;
+            }
+            h1 {
+                text-align: center;
+                margin-top: 20%;
+                font-size: 4em;
+                color: white;
+            }
+            p {
+                text-align: center;
+                font-size: 2em;
+                color: white;
+            }
+            button {
+                display: block;
+                margin: 0 auto;
+                padding: 1em 2em;
+                font-size: 1.5em;
+                background-color: white;
+                color: black;
+                border: none;
+                border-radius: 5px;
             }
         </style>
     </head>
@@ -19,4 +45,3 @@
         </a>
     </body>
 </html>
-
